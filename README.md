@@ -27,7 +27,7 @@ To install the required packages, follow these steps:
 ## Usage
 To use this code, follow these steps:
 1. Clone this repository: 
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/chansuixi/Triplet_Detection.git
 2. Navigate to the repository directory, such as:
    %cd drive/MyDrive/Triplet-Detection
 3. Open the provided Colab notebook and run the code cells:
